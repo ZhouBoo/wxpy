@@ -23,7 +23,7 @@ setup(
         ]
     },
     install_requires=[
-        'itchat==1.2.32',
+        'itchat==1.3.10',
         'requests',
         'future',
     ],
